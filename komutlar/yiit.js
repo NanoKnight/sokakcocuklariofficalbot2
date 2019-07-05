@@ -5,8 +5,8 @@ exports.run = function(client, message) {
  
     const embed = new Discord.RichEmbed()
         .setDescription("**- Master -**")
-        .setImage("https://cdn.discordapp.com/attachments/595228559191048192/595261243875524637/IMG_20181216_022118.jpg")
-        .setThumbnail("https://cdn.discordapp.com/attachments/595228559191048192/595261243875524637/IMG_20181216_022118.jpg")
+        .setImage("https://cdn.discordapp.com/attachments/595228559191048192/595596137747054602/IMG_20181216_022118.jpg")
+        .setThumbnail("https://cdn.discordapp.com/attachments/595228559191048192/595596137747054602/IMG_20181216_022118.jpg")
         .setColor(0x00AE86)
         .addField("TAM AD", "Yiğit Bal", true)
         .addField("Ben Kimim", `
